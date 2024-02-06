@@ -233,7 +233,7 @@ For the serverless implementation after creating the Docker image, follow these 
             }}
    - Implement the API and create a new stage for testing.
 
-### Testing the model serverless (If you want test the Serverless, do this)
+### Testing the model serverless (If you want test the Serverless, do this)(NOT WORKING)
 
 Open a new terminal and execute the `testServerless.py` file:
 ```
